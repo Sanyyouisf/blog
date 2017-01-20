@@ -6,11 +6,16 @@ border: 3px dotted purple;
 
 }
 
-.firstartical {
+#firstartical {
 background-color: grey;
 
 }
 
-.secondartical {
+#secondartical {
 background-color: green;
+}
+
+
+#thirdartical {
+background-color: purple;
 }
