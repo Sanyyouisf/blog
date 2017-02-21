@@ -3,14 +3,16 @@
 #mainheader {
 background-color: orange;
 border: 3px dotted purple;
-
+font-size: 1.3em;
 }
 
 .firstartical {
 background-color: grey;
+font-size: 1.1em;
 
 }
 
 .secondartical {
 background-color: green;
+font-size: 1.2em;
 }
